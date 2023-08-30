@@ -1,0 +1,15 @@
+{
+  "name": "ratefruits",
+  "version": "1.0.0",
+  "description": "using mongo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Konny",
+  "license": "ISC",
+  "dependencies": {
+    "mongo": "^0.1.0",
+    "mongoose": "^6.8.4"
+  }
+}
